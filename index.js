@@ -1,3 +1,4 @@
+//Hola esto es un cambio
 
 let box1 = document.querySelectorAll('.box01');
 console.log(box1[0]);
@@ -43,4 +44,5 @@ gsap.to('fondo', {
     background: "#00FF00",
     duration:4
 });
+
 
